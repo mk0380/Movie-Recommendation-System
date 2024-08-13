@@ -8,8 +8,8 @@ This project implements a content-based movie recommendation system using machin
 - **User Interface:** Provides a user-friendly interface to input preferences and receive personalized movie recommendations.
 - **Search Functionality:** Allows users to search for specific movies and view recommendations related to the searched movie.
 
-![Screenshot](assets/home.png)
-![Screenshot](assets/diff.png)
+![Screenshot](images/home.png)
+![Screenshot](images/diff.png)
 
 ## Installation
 
